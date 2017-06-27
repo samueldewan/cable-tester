@@ -14,6 +14,7 @@
 		BC18352B1F01B47C005FA5E8 /* Index */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Index; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC18352E1F01B47C005FA5E8 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		BC1835311F01B47C005FA5E8 /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		BC1835431F01B5F4005FA5E8 /* pindefinitions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pindefinitions.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -36,6 +37,7 @@
 		BC18352D1F01B47C005FA5E8 /* Cable Tester */ = {
 			isa = PBXGroup;
 			children = (
+				BC1835431F01B5F4005FA5E8 /* pindefinitions.h */,
 				BC18352E1F01B47C005FA5E8 /* main.c */,
 				BC1835301F01B47C005FA5E8 /* Makefiles */,
 			);
